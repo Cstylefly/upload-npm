@@ -275,6 +275,13 @@ cstyle-first-npm@^1.0.0:
   resolved "https://registry.yarnpkg.com/cstyle-first-npm/-/cstyle-first-npm-1.0.0.tgz#d46057b06d3fb03d9263277067e3d75a6151a3ae"
   integrity sha512-r+i46FIS0/nfd3Mzbvt7jym/F2ffPsNAek8FmNAGVW/CPTlww6NiXdl8g3vFPJguFFBpgYK9Da9wD1lKCG7HsQ==
 
+cstyle-first-npm@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/cstyle-first-npm/-/cstyle-first-npm-1.0.2.tgz#f40a2bf2d830d419db96f439e854aef29f18dbbc"
+  integrity sha512-nm+Awgmzw/OIds1eSIWu/W09Vb5MRO1L2e91QsZ5a4kVhB70XKHAPHeOwJTpI7Lxwe2PEq77oA7fVIkVfaGnUg==
+  dependencies:
+    cstyle-first-npm "^1.0.0"
+
 electron-to-chromium@^1.3.896:
   version "1.4.5"
   resolved "https://registry.yarnpkg.com/electron-to-chromium/-/electron-to-chromium-1.4.5.tgz#912e8fd1645edee2f0f212558f40916eb538b1f9"

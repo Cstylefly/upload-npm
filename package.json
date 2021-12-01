@@ -17,6 +17,6 @@
     "webpack-cli": "^4.9.1"
   },
   "dependencies": {
-    "cstyle-first-npm": "^1.0.0"
+    "cstyle-first-npm": "^1.0.2"
   }
 }
